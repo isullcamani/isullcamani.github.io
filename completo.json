@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "zapatos",
+    "Zapatillas",
+    "Automovil",
+    "Bicicleta",
+    "tren"
+  ],
+  "articlesCount": "5",
+  "articles": [
+    {
+      "id": "1",
+      "name": "Articulo uno",
+      "createdAt": "2024-07-30",
+      "favoritesCount": 1,
+      "author": [
+        {
+          "bio": "",
+          "following": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Articulo dos",
+      "createdAt": "2024-07-30",
+      "favoritesCount": 1,
+      "author": [
+        {
+          "bio": "",
+          "following": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Articulo tres",
+      "createdAt": "2024-07-30",
+      "favoritesCount": 1,
+      "author": [
+        {
+          "bio": "",
+          "following": false
+        }
+      ]
+    }
+  ]
+}
